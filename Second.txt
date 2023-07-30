@@ -1,0 +1,4 @@
+Ensures the rigorous application of information security/ information assurance policies, principles, and practices to all components of the enterprise architecture.
+Assess the state of complex and varied IT architectures; and
+Assist in the development and deployment of the most appropriate architectural framework including the proper documentation of the enterprise infrastructure.
+Executes work assigned to a EA team (IT Infrastructure Engineers) and implements final solutions after production sign-off;
